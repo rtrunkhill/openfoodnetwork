@@ -134,7 +134,7 @@ group :development do
   gem 'listen', '3.0.8' # 3.1.0 requires ruby 2.2
   gem 'guard-livereload'
   gem 'rack-livereload'
-  gem 'guard-rails'
+  gem 'guard-rails', '0.7.2'
   gem 'guard-rspec', '~> 4.7.3'
   gem 'parallel_tests'
   gem 'rubocop', '>= 0.49.1'
